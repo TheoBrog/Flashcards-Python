@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "question": "Quanto eh 2 + 2?",
+        "answer": "4!"
+    },
+    {
+        "id": 2,
+        "question": "Quanto eh 16 - 6?",
+        "answer": "10!"
+    },
+    {
+        "id": 3,
+        "question": "Qual a raiz quadrada de 64",
+        "answer": "8!"
+    }
+]
